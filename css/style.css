@@ -99,14 +99,13 @@
   font-size: 18px;
 }
 .explore-section .explore-button {
-  width: 200px;
-  height: 50px;
   border-radius: 75px 73px 71px 71px;
   box-shadow: 5px 5px 7px 0px rgba(204, 204, 204, 0.75);
   background: linear-gradient(193.33deg, #9356dc -11.44%, #ff79da 123.93%);
   border: none;
   color: white;
   font-weight: 500;
+  padding: 15px;
 }
 .explore-section .explore-button:hover {
   cursor: pointer;
